@@ -72,7 +72,7 @@ adb connect arc
 adb install "TikTok_You-5.0.47.4.3"
 ```
 
-Keep the quotation marks around the file name, especially if it has spaces or parentheses. Replace `exact_file_name.apk` with the exact name of the APK you downloaded if needed.
+Keep the quotation marks around the file name.
 
 3. Wait for **Performing Streamed Install** to finish and say **Success**. Your app is now in your Chromebook app launcher.
 
