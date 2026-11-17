@@ -69,7 +69,7 @@ adb connect arc
 2. Go back to the **Terminal** app and run:
 
 ```bash
-adb install "exact_file_name.apk"
+adb install "TikTok_You-5.0.47.4.3"
 ```
 
 Keep the quotation marks around the file name, especially if it has spaces or parentheses. Replace `exact_file_name.apk` with the exact name of the APK you downloaded if needed.
